@@ -2,7 +2,7 @@
 
 轻量的 Windows 本地剪贴板管理器，让复制过的文字、链接、图片和文件随时可找、可用。
 
-**[下载 Windows x64 便携版](https://github.com/j1903059993/Clasp-Releases/releases/download/v1.2.0-rc.2/Clasp-v1.2.0-rc.2-windows-x64.zip)** · **[所有版本](https://github.com/j1903059993/Clasp-Releases/releases)** · **[使用说明](docs/USAGE.md)** · **[反馈问题](https://github.com/j1903059993/Clasp-Releases/issues)**
+**[下载 Windows x64 便携版](https://github.com/j1903059993/Clasp-Releases/releases/download/v1.2.0-rc.3/Clasp-v1.2.0-rc.3-windows-x64.zip)** · **[所有版本](https://github.com/j1903059993/Clasp-Releases/releases)** · **[使用说明](docs/USAGE.md)** · **[反馈问题](https://github.com/j1903059993/Clasp-Releases/issues)**
 
 ![Clasp 拾贴界面，使用演示数据](docs/images/preview.png)
 
@@ -14,7 +14,7 @@
 
 当前为免安装便携预览版，支持 **Windows 10/11 x64**，需要 **.NET Framework 4.8**。程序暂未进行代码签名。请下载应用附件；`Source code (zip)` 仅包含下载仓库的说明文件，不是应用。
 
-**当前版本：1.2.0-rc.2**，修复了托盘退出后进程残留、再次启动没有反应的问题，并改善了卡片悬浮时的文字清晰度。[查看更新日志](CHANGELOG.md)。
+**当前版本：1.2.0-rc.3**，面板贴在屏幕最底部并占满整宽，使用毛玻璃与可调透明度，历史只横向滚动，图片按完整容貌显示。[查看更新日志](CHANGELOG.md)。
 
 ## 可以做什么
 
@@ -22,7 +22,7 @@
 - 固定常用内容，使用快捷键快速粘贴。
 - 预览图片，支持缩放、拖动和最大化。
 - 保存文件副本，原文件移动后仍可使用已备份的内容。
-- 自定义唤醒快捷键、数据目录、动画和开机自启。
+- 自定义唤醒快捷键、面板透明度、数据目录、动画和开机自启。
 
 默认按 **Alt + V** 打开面板，按 **Enter** 粘贴选中项，按 **Esc** 收起。快捷键冲突时可在设置中修改。
 
