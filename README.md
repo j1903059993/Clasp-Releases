@@ -2,19 +2,18 @@
 
 轻量的 Windows 本地剪贴板管理器，让复制过的文字、链接、图片和文件随时可找、可用。
 
-**[下载 Windows x64 便携版](https://github.com/j1903059993/Clasp-Releases/releases/download/v1.2.0-rc.8/Clasp-v1.2.0-rc.8-windows-x64.zip)** · **[所有版本](https://github.com/j1903059993/Clasp-Releases/releases)** · **[使用说明](docs/USAGE.md)** · **[反馈问题](https://github.com/j1903059993/Clasp-Releases/issues)**
-
-![Clasp 拾贴界面，使用演示数据](docs/images/preview.png)
+**[下载便携版](https://github.com/j1903059993/Clasp-Releases/releases/download/v1.0.0/Clasp-v1.0.0-windows-x64.zip)** · **[下载安装版](https://github.com/j1903059993/Clasp-Releases/releases/download/v1.0.0/Clasp-Setup-v1.0.0-windows-x64.exe)** · **[使用说明](docs/USAGE.md)** · **[反馈问题](https://github.com/j1903059993/Clasp-Releases/issues)**
 
 ## 下载与运行
 
-1. 打开 **[Releases](https://github.com/j1903059993/Clasp-Releases/releases)**，选择需要的版本。
-2. 在 **Assets** 中下载 `Clasp-v版本-windows-x64.zip`。
-3. 解压到可写入的文件夹，双击 `Clasp.exe`。
+当前版本：**1.0.0**，首个正式版。
 
-当前为免安装便携预览版，支持 **Windows 10/11 x64**，需要 **.NET Framework 4.8**。程序暂未进行代码签名。请下载应用附件；`Source code (zip)` 仅包含下载仓库的说明文件，不是应用。
+- **便携版**：下载 ZIP，解压到可写入的文件夹，双击 `Clasp.exe`。
+- **安装版**：运行 Setup，按向导选择安装目录和快捷方式，完成后启动。
 
-**当前版本：1.2.0-rc.8**，面板贴在屏幕最底部并占满整宽，顶部圆角镂空，采用液态玻璃风格与可调白色透明叠层，悬浮卡片保持清晰，横向滚动时卡片底部完整显示。[查看更新日志](CHANGELOG.md)。
+支持 **Windows 10/11 x64**，需要 **.NET Framework 4.8**。程序暂未进行代码签名。请下载应用附件；`Source code (zip)` 仅包含公开下载仓库的说明文件，不是应用源码。
+
+白色毛玻璃面板，透明度可调范围 0%–50%，默认 10%。动画默认关闭，可在设置中选择底部收纳或轻盈缩放。[查看更新日志](CHANGELOG.md)。
 
 ## 可以做什么
 
@@ -32,11 +31,11 @@
 
 默认数据位于程序旁的 `Data` 文件夹，也可在设置中迁移。升级前退出程序，保留 `Data` 与 `settings.json`，再替换应用文件。详细操作见[使用说明](docs/USAGE.md)。
 
-## 反馈与开发
+## 反馈
 
-遇到问题可在 [Issues](https://github.com/j1903059993/Clasp-Releases/issues) 提供应用版本、Windows 版本与复现步骤；截图请使用演示内容并遮去私人信息。
+遇到问题请在 [Issues](https://github.com/j1903059993/Clasp-Releases/issues) 提供应用版本、Windows 版本和复现步骤。
 
-此仓库保存私有源码，不对外开放。项目使用 C# / WPF；受邀开发者请阅读[开发与构建](docs/DEVELOPMENT.md)、[发行流程](docs/RELEASING.md)和[后续方向](docs/ROADMAP.md)。公开下载页面只提供应用与使用说明。
+本仓库仅提供官方应用下载与使用说明，不包含应用源码。
 
 ## 许可证
 
