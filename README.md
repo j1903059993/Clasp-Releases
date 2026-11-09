@@ -2,11 +2,11 @@
 
 轻量的 Windows 本地剪贴板管理器，让复制过的文字、链接、图片和文件随时可找、可用。
 
-**[下载便携版](https://github.com/j1903059993/Clasp-Releases/releases/download/v1.0.0/Clasp-v1.0.0-windows-x64.zip)** · **[下载安装版](https://github.com/j1903059993/Clasp-Releases/releases/download/v1.0.0/Clasp-Setup-v1.0.0-windows-x64.exe)** · **[使用说明](docs/USAGE.md)** · **[反馈问题](https://github.com/j1903059993/Clasp-Releases/issues)**
+**[下载便携版](https://github.com/j1903059993/Clasp-Releases/releases/download/v1.0.2/Clasp-v1.0.2-windows-x64.zip)** · **[下载安装版](https://github.com/j1903059993/Clasp-Releases/releases/download/v1.0.2/Clasp-Setup-v1.0.2-windows-x64.exe)** · **[使用说明](docs/USAGE.md)** · **[反馈问题](https://github.com/j1903059993/Clasp-Releases/issues)**
 
 ## 下载与运行
 
-当前版本：**1.0.0**，首个正式版。
+当前版本 **1.0.2**。
 
 - **便携版**：下载 ZIP，解压到可写入的文件夹，双击 `Clasp.exe`。
 - **安装版**：运行 Setup，按向导选择安装目录和快捷方式，完成后启动。
